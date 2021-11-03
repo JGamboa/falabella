@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "classmap": ["src"]
+    },
+    "require-dev": {
+        "pestphp/pest": "^1.20"
+    }
+}
